@@ -8,10 +8,15 @@ Future: These improvements and innovations will be made in the foreseeable futur
 The list below are the properties or abilities of the program.
 
 -Researches, 
+
   -ENGINEERING BAY:INFANTRY WEAPON LEVEL 1
+  
   -BARRACKS TECHLAB: STIMPACK, CONCUSSIVE SHELL, COMBATSHIELD
+  
 -Unit Production,
+
   -BARRACKS REACTOR: MARINE(2 at a time per barrack reactor)
+  
   -BARRACKS TECHLAB: MARAUDER
   -STARPORT: MEDICVAC
   -COMMANDCENTER | ORBITALCOMMAND : SCV
@@ -39,6 +44,7 @@ The list below are the properties or abilities of the program.
   BATTLECRUISER(concept):{TACTICAL JUMP into enemy mineral line to kill workers,
                           assist main army in ground dominance,
                           recommend assistance with VIKINGS}
+                          
 - Victory Rate( Results based on three games, each enemy AI were setted on HARD diffculty):
   Game 1: {Enemy Race= Terran, Time= less than 10 mins, result= win }
   Game 2: {Enemy Race= Protoss, Time= less than 10 mins, result= win }
