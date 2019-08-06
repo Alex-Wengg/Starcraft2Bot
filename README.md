@@ -18,36 +18,65 @@ The list below are the properties or abilities of the program.
   -BARRACKS REACTOR: MARINE(2 at a time per barrack reactor)
   
   -BARRACKS TECHLAB: MARAUDER
+  
   -STARPORT: MEDICVAC
+  
   -COMMANDCENTER | ORBITALCOMMAND : SCV
+  
 -Unit Ability:
+
   -MARINE | MARAUDER: use STIMPACKS when enemies in radius of 10
+  
   -ORBTIALCOMMAND: CALLDOWN MULE when sufficient energy availible
+  
 -Unit Efficiency
-  SCV(workers): {able to gather minerals with rare oversaturation, 
-                increase supply limits when necessary(usually after the 80 population range),
+
+  SCV(workers): {able to gather minerals with rare oversaturation,
+  
+                increase supply limits when necessary(usually after the 80 population range)
+                ,
                  automatically build the next structure when requirements are met}
+                 
   MARINE|MARAUDER: {can handle enemy scouts and skirmishes quite well,
-                    in most iterations, the marauders soak the enemy attacks}
+                 
+                 in most iterations, the marauders soak the enemy attacks}
+                 
   MEDICVAC: {great diffculty to command and automate due its weird mechanics,
+  
             takes time to be properly brought to the frontline to heal units,
-             ai intelligences requires great improvement,
-             overall still effective enough to improve army unit lives}
+  
+            ai intelligences requires great improvement,
+  
+           overall still effective enough to improve army unit lives}
+  
   GHOST(untested):{designed to calldown nukes onto enemy mineral lines,
+  
                   snipe dangerous and powerful enemy ZERG units such as VIPERS, INFESTORS, BROODLORD and ULTRALISK,
+                  
                   emp made to null or weaken enemy PROTOSS spellcasters such as HIGHTEMPLARS, COLLOSSI, MOTHERSHIP, SENTRY}
+                  
   REAPER(untest):{designed to scout for unusually enemy structure placement and plans,
+  
                   harass worker units}
+                  
   BANSHEE(concept):{scout,
+  
                     lower enemy worker count,
+                    
                     assist main army in handling dangerous enemy units}
+                    
   BATTLECRUISER(concept):{TACTICAL JUMP into enemy mineral line to kill workers,
+  
                           assist main army in ground dominance,
+                          
                           recommend assistance with VIKINGS}
                           
 - Victory Rate( Results based on three games, each enemy AI were setted on HARD diffculty):
+
   Game 1: {Enemy Race= Terran, Time= less than 10 mins, result= win }
+  
   Game 2: {Enemy Race= Protoss, Time= less than 10 mins, result= win }
+  
   Game 3: {Enemy Race= Zerg, Time= less than 10 mins, result= win }
 
 
