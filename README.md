@@ -43,25 +43,25 @@ The list below are the properties or abilities of the program.
                  
   MEDICVAC: {great diffculty to command and automate due its weird mechanics,
   
-            takes time to be properly brought to the frontline to heal units,
+  takes time to be properly brought to the frontline to heal units,
   
-            ai intelligences requires great improvement,
+  ai intelligences requires great improvement,
   
-           overall still effective enough to improve army unit lives}
+  overall still effective enough to improve army unit lives}
   
   GHOST(untested):{designed to calldown nukes onto enemy mineral lines,
   
-                  snipe dangerous and powerful enemy ZERG units such as VIPERS, INFESTORS, BROODLORD and ULTRALISK,
+  snipe dangerous and powerful enemy ZERG units such as VIPERS, INFESTORS, BROODLORD and ULTRALISK,
                   
-                  emp made to null or weaken enemy PROTOSS spellcasters such as HIGHTEMPLARS, COLLOSSI, MOTHERSHIP, SENTRY}
+  emp made to null or weaken enemy PROTOSS spellcasters such as HIGHTEMPLARS, COLLOSSI, MOTHERSHIP, SENTRY}
                   
   REAPER(untest):{designed to scout for unusually enemy structure placement and plans,
   
-                  harass worker units}
+  harass worker units}
                   
   BANSHEE(concept):{scout,
   
-                    lower enemy worker count,
+  lower enemy worker count,
                     
                     assist main army in handling dangerous enemy units}
                     
